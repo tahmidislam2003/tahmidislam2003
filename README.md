@@ -1,6 +1,6 @@
 # Hi, I'm Tahmid Islam 👋
 
-**Cloud Security | SOC | Navy SkillBridge**
+**Cloud Security | Navy SkillBridge**
 
 📍 San Diego, CA &nbsp;|&nbsp; 🔐 Active Secret Clearance &nbsp;|&nbsp; ✈️ Navy Aviation Electrician (AE)
 
@@ -10,7 +10,7 @@
 
 Navy Aviation Electrician finishing up six years in the Navy, transitioning into cybersecurity through DoD SkillBridge. F/A-18 electrical work runs on technical procedures and zero margin for error — that background carries over pretty naturally to security.
 
-Built a Proxmox homelab and ran six projects end to end: a network firewall, two SIEM platforms, cross-account AWS IAM, a full three-tier VPC, and an automated cloud audit. Pursuing a B.S. in Networking & Cloud Computing at WGU. Looking for cloud security and SOC roles with defense contractors in San Diego.
+Built a Proxmox homelab and ran six projects end to end: a network firewall, two SIEM platforms, cross-account AWS IAM, a full three-tier VPC, and an automated cloud audit. Pursuing a B.S. in Networking & Cloud Computing at WGU. Looking for cloud security roles through DoD SkillBridge — open to San Diego and remote positions.
 
 ---
 
