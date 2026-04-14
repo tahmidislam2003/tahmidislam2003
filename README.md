@@ -1,6 +1,6 @@
 # Hi, I'm Tahmid Islam 👋
 
-**Cloud Security | Navy SkillBridge**
+**Cloud Security | SkillBridge**
 
 📍 San Diego, CA &nbsp;|&nbsp; 🔐 Active Secret Clearance &nbsp;|&nbsp; ✈️ Navy Aviation Electrician (AE)
 
@@ -8,9 +8,9 @@
 
 ## 👨‍💻 About Me
 
-Navy Aviation Electrician finishing up six years in the Navy, transitioning into cybersecurity through DoD SkillBridge. F/A-18 electrical work runs on technical procedures and zero margin for error — that background carries over pretty naturally to security.
+Navy Aviation Electrician finishing up five years in the Navy, transitioning into cybersecurity/Cloud-Security through DoD SkillBridge. MH60-R electrical work runs on technical procedures and zero margin for error — that background carries over pretty naturally to security.
 
-Built a Proxmox homelab and ran six projects end to end: a network firewall, two SIEM platforms, cross-account AWS IAM, a full three-tier VPC, and an automated cloud audit. Pursuing a B.S. in Networking & Cloud Computing at WGU. Looking for cloud security roles through DoD SkillBridge — open to San Diego and remote positions.
+Built a Proxmox homelab and ran six projects end to end: a network firewall, two SIEM platforms, cross-account AWS IAM, a full three-tier VPC, and an automated cloud audit. Pursuing a B.S. in Networking & Cloud Computing at WGU. 
 
 ---
 
@@ -33,7 +33,6 @@ Built a Proxmox homelab and ran six projects end to end: a network firewall, two
 | Cloud | AWS (IAM, VPC, Organizations, STS), Terraform |
 | Network Security | OPNsense, Firewall Rules, NAT, VPC Security Groups, NACLs |
 | Endpoint | Sysmon, Windows Event Logs, Universal Forwarder |
-| Compliance | MITRE ATT&CK, PCI DSS, CIS Benchmark, NIST 800-53 |
 | OS | Linux (Ubuntu/Debian), Windows Server, Proxmox VE |
 | Auditing | Prowler (CSPM), AWS Config |
 
