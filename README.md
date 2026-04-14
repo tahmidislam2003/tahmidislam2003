@@ -1,6 +1,6 @@
 # Hi, I'm Tahmid Islam 👋
 
-**Cloud Security | SkillBridge**
+**Cloud Security | Cybersecurity**
 
 📍 San Diego, CA &nbsp;|&nbsp; 🔐 Active Secret Clearance &nbsp;|&nbsp; ✈️ Navy Aviation Electrician (AE)
 
