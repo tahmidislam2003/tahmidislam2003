@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-Navy Aviation Electrician finishing up five years in the Navy, transitioning into cybersecurity/Cloud-Security through DoD SkillBridge. MH60-R SeaHawk electrical work runs on technical procedures and zero margin for error — that background carries over pretty naturally to security.
+Navy Aviation Electrician finishing up five years in the Navy, transitioning into cybersecurity/Cloud-Security through DoD SkillBridge. MH60-R SeaHawk electrical work runs on technical procedures and zero margin for error — that background carries over naturally to security.
 
 Built a Proxmox homelab and ran six projects end to end: a network firewall, two SIEM platforms, cross-account AWS IAM, a full three-tier VPC, and an automated cloud audit. Pursuing a B.S. in Networking & Cloud Computing (AWS) at WGU. 
 
