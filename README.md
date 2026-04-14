@@ -54,6 +54,5 @@ Built a Proxmox homelab and ran six projects end to end: a network firewall, two
 
 ## 🔗 Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/tahmidislam2003)
 - 🐙 [GitHub](https://github.com/tahmidislam2003)
 - 🌐 [Portfolio](https://tahmidislam.tech)
