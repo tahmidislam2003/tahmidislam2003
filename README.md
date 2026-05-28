@@ -33,6 +33,7 @@ Built a Proxmox homelab and ran six projects end to end: a network firewall, two
 |---|---|
 | CompTIA A+ | ✅ Held |
 | LPI Linux Essentials | ✅ Held |
+| CompTIA Network+ | 🔄 In Progress |
 | CompTIA Security+ | 🔄 In Progress |
 | B.S. Networking & Cloud Computing (WGU) | 🔄 In Progress |
 
