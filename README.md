@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-Navy Aviation Electrician finishing up five years in the Navy, transitioning into cybersecurity/Cloud-Security through DoD SkillBridge. MH60-R SeaHawk electrical work runs on technical procedures and zero margin for error — that background carries over naturally to security.
+Navy Aviation Electrician finishing up five years in the Navy, transitioning into cybersecurity/Cloud-Security. 
 
 Built a Proxmox homelab and ran six projects end to end: a network firewall, two SIEM platforms, cross-account AWS IAM, a full three-tier VPC, and an automated cloud audit. Pursuing a B.S. in Networking & Cloud Computing (AWS) at WGU. 
 
@@ -33,7 +33,7 @@ Built a Proxmox homelab and ran six projects end to end: a network firewall, two
 |---|---|
 | CompTIA A+ | ✅ Held |
 | LPI Linux Essentials | ✅ Held |
-| CompTIA Network+ | 🔄 In Progress |
+| CompTIA Network+ | ✅ Held |
 | CompTIA Security+ | 🔄 In Progress |
 | B.S. Networking & Cloud Computing (WGU) | 🔄 In Progress |
 
@@ -45,8 +45,7 @@ Built a Proxmox homelab and ran six projects end to end: a network firewall, two
 |---|---|
 | SIEM | Wazuh, Splunk Enterprise |
 | Cloud | AWS (IAM, VPC, Organizations, STS), Terraform |
-| Network Security | OPNsense, Firewall Rules, NAT, VPC Security Groups, NACLs |
-| Endpoint | Sysmon, Windows Event Logs, Universal Forwarder |
+| Network Security | OPNsense, Firewall Rules, NAT, VPC Security Groups, 
 | OS | Linux (Ubuntu/Debian), Windows Server, Proxmox VE |
 | Auditing | Prowler (CSPM), AWS Config |
 
