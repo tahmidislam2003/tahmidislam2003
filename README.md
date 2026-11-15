@@ -8,9 +8,9 @@
 
 ## 👨‍💻 About Me
 
-Navy Aviation Electrician finishing up five years in the Navy, transitioning into cybersecurity/Cloud-Security. 
+Prior Navy Aviation Electrician with five years in the Navy, transitioning into cybersecurity/Cloud-Security. 
 
-Built a Proxmox homelab and ran six projects end to end: a network firewall, two SIEM platforms, cross-account AWS IAM, a full three-tier VPC, and an automated cloud audit. Pursuing a B.S. in Networking & Cloud Computing (AWS) at WGU. 
+Built a Proxmox homelab and ran six projects end to end utilizing Virtual Machines: a network firewall, two SIEM platforms, cross-account AWS IAM, a full three-tier VPC, and an automated cloud audit. Pursuing a B.S. in Networking & Cloud Computing (AWS) at WGU. 
 
 ---
 
